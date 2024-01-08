@@ -1,1 +1,1 @@
-# The pascals triangle in python.
+# The pascals triangle in python
